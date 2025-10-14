@@ -12,3 +12,7 @@ Sou apaixonado por tecnologia, desenvolvimento de software e por aprender coisas
 ### 🤖 Linguagens e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="80px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width="80px" />
+          
+
