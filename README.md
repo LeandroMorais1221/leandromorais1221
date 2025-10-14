@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Tenho 20 anos e sou natural de Minas Gerais. Sou técnico em Informática formado pelo Senac e atualmente estou cursando Análise e Desenvolvimento de Sistemas na mesma instituição.
+Tenho 22 anos e sou natural de Minas Gerais. Sou técnico em Informática formado pelo Senac e atualmente estou cursando Análise e Desenvolvimento de Sistemas na mesma instituição.
 
 Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse por tecnologia e desenvolvimento de software, buscando sempre aprimorar minhas competências e habilidades.
 
