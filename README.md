@@ -10,8 +10,6 @@ Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse po
 
 ### 🤖 Linguagens e Tecnologias
 
-</br>
-
 <img
     align="left"
     width="50px"
