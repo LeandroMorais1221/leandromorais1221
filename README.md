@@ -28,4 +28,13 @@ Sou apaixonado por tecnologia, desenvolvimento de software e por aprender coisas
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+<img
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="80px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+/>
+          
 
