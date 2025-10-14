@@ -4,7 +4,7 @@
 
 Tenho 20 anos e sou natural de Minas Gerais. Sou técnico em Informática formado pelo Senac e atualmente estou cursando Análise e Desenvolvimento de Sistemas na mesma instituição.
 
-Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse por tecnologia e desenvolvimento de software, buscando sempre aprimorar minhas competências e atuar em projetos relevantes e inovadores.
+Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse por tecnologia e desenvolvimento de software, buscando sempre aprimorar minhas competências e habilidades.
 
 💻 Áreas de interesse: desenvolvimento web, backend, bancos de dados e boas práticas de programação. <br/> 🚀 Sempre em busca de novos desafios e oportunidades para crescer na área de TI.
 
