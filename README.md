@@ -6,7 +6,7 @@ Tenho 20 anos e sou natural de Minas Gerais. Sou técnico em Informática formad
 
 Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse por tecnologia e desenvolvimento de software, buscando sempre aprimorar minhas competências e atuar em projetos relevantes e inovadores.
 
-💻 Áreas de interesse: desenvolvimento web, backend, bancos de dados e boas práticas de programação. <br> 🚀 Sempre em busca de novos desafios e oportunidades para crescer na área de TI.
+💻 Áreas de interesse: desenvolvimento web, backend, bancos de dados e boas práticas de programação. <br/> 🚀 Sempre em busca de novos desafios e oportunidades para crescer na área de TI.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -70,6 +70,9 @@ Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse po
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
+
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
