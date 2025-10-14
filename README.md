@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Olá! Me chamo Leandro Morais
+## 👩‍💻 Olá! Me chamo Leandro Morais
 
 **`Desenvolvedor Backend`**
 
