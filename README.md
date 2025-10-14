@@ -76,7 +76,7 @@ Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse po
 
 ## Resumo Profissional
 
-Iniciei minha trajetória na área de TI como estagiário em uma pequena empresa local, atuando no setor de suporte técnico. Após o estágio, fui efetivado e permaneci na empresa por três anos, adquirindo experiência prática com infraestrutura, manutenção de sistemas e atendimento a usuários.
+Iniciei minha trajetória na área de TI como estagiário em uma pequena empresa local, atuando no setor de suporte técnico. Após o estágio, fui efetivado e permaneci na empresa por três anos, adquirindo experiência prática com infraestrutura, manutenção em equipamentos e atendimento a usuários.
 
 Atualmente curso Análise e Desenvolvimento de Sistemas (EAD) e foco meus estudos em programação, bancos de dados e frameworks modernos, como Laravel e Express com Prisma.
 Busco constantemente aprimorar minhas habilidades e contribuir com projetos que gerem impacto real, especialmente voltados ao desenvolvimento de soluções para novos profissionais de tecnologia.
