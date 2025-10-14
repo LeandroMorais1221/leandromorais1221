@@ -74,7 +74,7 @@ Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse po
 <br/>
 <br/>
 
-## Resumo Profissional
+## 💼 Trajetória Profissional
 
 Iniciei minha trajetória na área de TI como estagiário em uma pequena empresa local, atuando no setor de suporte técnico. Após o estágio, fui efetivado e permaneci na empresa por três anos, adquirindo experiência prática com infraestrutura, manutenção em equipamentos e atendimento a usuários.
 
