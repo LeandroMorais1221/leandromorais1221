@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👩🏻‍💻 Olá! Me chamo Leandro Morais
 
-<!--
-**LeandroMorais1221/leandromorais1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Backend`**
 
-Here are some ideas to get you started:
+Tenho 20 anos e sou natural de Minas Gerais. Sou técnico em Informática formado pelo Senac e atualmente estou cursando Análise e Desenvolvimento de Sistemas na mesma instituição.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia, desenvolvimento de software e por aprender coisas novas todos os dias. Busco constantemente aprimorar minhas habilidades e contribuir com projetos que façam a diferença.
+
+💻 Áreas de interesse: desenvolvimento web, backend, bancos de dados e boas práticas de programação.
+🚀 Sempre em busca de novos desafios e oportunidades para crescer na área de TI.
+
+### 🤖 Linguagens e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
