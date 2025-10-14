@@ -29,5 +29,12 @@ Sou apaixonado por tecnologia, desenvolvimento de software e por aprender coisas
     width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
-/>        
+/>
+<img
+    align="left"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+          
           
