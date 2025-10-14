@@ -71,6 +71,8 @@ Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse po
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
+### 📊 Estatísticas
+
 <p>
     <img 
         align="left" 
