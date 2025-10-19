@@ -8,7 +8,7 @@ Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse po
 
 💻 Áreas de interesse: desenvolvimento web, backend, bancos de dados e boas práticas de programação. <br/> 🚀 Sempre em busca de novos desafios e oportunidades para crescer na área de TI.
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img
     align="left"
@@ -63,7 +63,7 @@ Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse po
 <br/>
 <br/>
 
-### 💼 Trajetória Profissional
+## 💼 Trajetória Profissional
 
 Iniciei minha trajetória na área de TI como estagiário em uma pequena empresa local, atuando no setor de suporte técnico. Após o estágio, fui efetivado e permaneci na empresa por três anos, adquirindo experiência prática com infraestrutura, manutenção em equipamentos e atendimento a usuários.
 
