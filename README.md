@@ -80,18 +80,6 @@ Iniciei minha trajetória na área de TI como estagiário em uma pequena empresa
 
 Atualmente curso Análise e Desenvolvimento de Sistemas e foco meus estudos em programação, bancos de dados e frameworks modernos, como Laravel e Express com Prisma.
 Busco constantemente aprimorar minhas habilidades e contribuir com projetos que gerem impacto real, especialmente voltados ao desenvolvimento de soluções para novos profissionais de tecnologia.
-
-## 📊 Estatísticas
-
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroMorais1221&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
-</p>
-          
           
           
           
