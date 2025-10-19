@@ -38,12 +38,6 @@ Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse po
     align="left"
     width="40px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-    align="left"
-    width="40px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
 <img
