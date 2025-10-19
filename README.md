@@ -50,12 +50,6 @@ Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse po
     align="left"
     width="40px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg"
-/>
-<img
-    align="left"
-    width="40px"
-    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
           
