@@ -54,4 +54,4 @@ Iniciei minha carreira em TI como estagiário em suporte técnico, sendo efetiva
 
 Atuei também por 6 meses como auxiliar de desenvolvimento de software, realizando carga de dados, testes frontend e backend utilizando JavaScript.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas, com foco em programação e bancos de dados, buscando evoluir continuamente e contribuir com projetos que gerem impacto real.
+Atualmente curso Análise e Desenvolvimento de Sistemas, buscando evoluir continuamente e contribuir com projetos que gerem impacto real.
