@@ -4,7 +4,7 @@
 
 Tenho 23 anos e sou natural de Minas Gerais. Sou técnico em Informática, movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse por tecnologia e desenvolvimento de software, buscando sempre aprimorar minhas competências e habilidades.
 
-💻 Áreas de interesse: Backend, Bancos de Dados, Boas Práticas de Programação e Arquitetura de Software. <br/> 🚀 Sempre em busca de novos desafios e oportunidades para crescer na área de TI.
+💻 Áreas de interesse: Backend, Bancos de Dados, Boas Práticas de Programação e Arquitetura de Software.
 
 ## 🤖 Linguagens e Tecnologias
 
