@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Tenho 23 anos e sou natural de Minas Gerais. Sou técnico em Informática, e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse por tecnologia e desenvolvimento de software, buscando sempre aprimorar minhas competências e habilidades.
+Tenho 23 anos e sou natural de Minas Gerais. Sou técnico em Informática, movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse por tecnologia e desenvolvimento de software, buscando sempre aprimorar minhas competências e habilidades.
 
 💻 Áreas de interesse: Backend, Bancos de Dados, Boas Práticas de Programação e Arquitetura de Software. <br/> 🚀 Sempre em busca de novos desafios e oportunidades para crescer na área de TI.
 
