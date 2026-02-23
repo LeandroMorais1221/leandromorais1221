@@ -30,6 +30,12 @@ Tenho 23 anos e sou natural de Minas Gerais. Técnico em Informática, movido pe
     align="left"
     width="40px"
     style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+/>
+<img
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
 <img
