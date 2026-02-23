@@ -53,7 +53,6 @@ Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse po
 
 Iniciei minha carreira em TI como estagiário em suporte técnico, sendo efetivado e permanecendo por três anos como Técnico em Informática, com experiência em manutenção de equipamentos, atendimento a usuários e administração de servidores.
 
-<br/>
-
 Atuei também por 6 meses como auxiliar de desenvolvimento de software, realizando carga de dados, testes frontend e backend utilizando JavaScript.
+
 Atualmente curso Análise e Desenvolvimento de Sistemas, com foco em programação e bancos de dados, buscando evoluir continuamente e contribuir com projetos que gerem impacto real.
