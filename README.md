@@ -2,11 +2,10 @@
 
 **`Desenvolvedor Backend`**
 
-Tenho 22 anos e sou natural de Minas Gerais. Sou técnico em Informática formado pelo Senac e atualmente estou cursando Análise e Desenvolvimento de Sistemas na mesma instituição.
-
+Tenho 23 anos e sou natural de Minas Gerais. Sou técnico em Informática, e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse por tecnologia e desenvolvimento de software, buscando sempre aprimorar minhas competências e habilidades.
 
-💻 Áreas de interesse: desenvolvimento web, backend, bancos de dados e boas práticas de programação. <br/> 🚀 Sempre em busca de novos desafios e oportunidades para crescer na área de TI.
+💻 Áreas de interesse: Backend, Bancos de Dados, Boas Práticas de Programação e Arquitetura de Software. <br/> 🚀 Sempre em busca de novos desafios e oportunidades para crescer na área de TI.
 
 ## 🤖 Linguagens e Tecnologias
 
@@ -47,13 +46,6 @@ Sou movido pela curiosidade e pelo desejo de aprender. Tenho grande interesse po
 
 ## 💼 Trajetória Profissional
 
-Iniciei minha trajetória na área de TI como estagiário em uma pequena empresa local, atuando no setor de suporte técnico. Após o estágio, fui efetivado e permaneci na empresa por três anos, adquirindo experiência prática com infraestrutura, manutenção em equipamentos e atendimento a usuários.
-
-Atualmente curso Análise e Desenvolvimento de Sistemas e foco meus estudos em programação e bancos de dados.
-Busco constantemente aprimorar minhas habilidades e contribuir com projetos que gerem impacto real, especialmente voltados ao desenvolvimento de soluções para novos profissionais de tecnologia.
-          
-          
-          
-          
-          
-          
+Iniciei minha carreira em TI como estagiário em suporte técnico, sendo efetivado e permanecendo por três anos como Técnico em Informática, com experiência em manutenção de equipamentos, atendimento a usuários e administração de servidores.
+Atuei também por 6 meses como auxiliar de desenvolvimento de software, com foco em carga de dados, testes frontend e backend utilizando JavaScript.
+Atualmente curso Análise e Desenvolvimento de Sistemas, com foco em programação e bancos de dados, buscando evoluir continuamente e contribuir com projetos que gerem impacto real.
