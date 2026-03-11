@@ -56,8 +56,6 @@ Tenho 23 anos e sou natural de Minas Gerais. Técnico em Informática, movido pe
 
 ## 💼 Trajetória Profissional
 
-Iniciei minha carreira em TI como estagiário em suporte técnico, sendo efetivado e permanecendo por três anos como Técnico em Informática, com experiência em manutenção de equipamentos, atendimento a usuários e administração de servidores.
-
-Atuei também por 6 meses como auxiliar de desenvolvimento de software, realizando carga de dados, testes frontend e backend utilizando JavaScript.
+Iniciei minha carreira em TI como estagiário em suporte técnico, sendo efetivado e permanecendo por três anos como Técnico em Informática, com experiência em manutenção de equipamentos, atendimento a usuários e administração de servidores. Atuei 6 meses efetivo como auxiliar de desenvolvimento de software, realizando carga de dados, testes frontend e backend utilizando JavaScript com ferramentas como Jest e Testing Library em aplicações Next.js e Nest.js.
 
 Atualmente curso Análise e Desenvolvimento de Sistemas, buscando evoluir continuamente e contribuir com projetos que gerem impacto real.
